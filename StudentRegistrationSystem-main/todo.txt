@@ -1,0 +1,28 @@
+Baseline for student - DONE
+-1 - View Current Classes
+-2 - View Past Classes
+-3 - View Account Details
+-4 - Transcript
+-5 - Register for Courses
+	- if line == TRUE not working
+        - Make every student that has registered for a course now has that as a current course
+        - PreRequiste Checking
+-6 - Logout
+
+Baseline for faculty - 
+-1
+-2
+-3
+-4
+-5
+-6
+
+Baseline for admin- 
+-1
+-2
+-3 - Change Registration
+        - Make every student that has registered for a course now has that as a current course
+        - copy from studentFutreCourses.txt -> studentCurrentCourses.txt
+-4 - Logout
+
+

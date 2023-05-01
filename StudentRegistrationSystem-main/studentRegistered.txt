@@ -1,0 +1,8 @@
+jday csc4210 01
+apiester csc4210 02
+jday mth1410 01
+jday pe1201 01
+dmalloy csc4520 01
+mhenson csc4710 01
+dmalloy psy5620 01
+mhenson pe4560 02

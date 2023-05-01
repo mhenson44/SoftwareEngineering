@@ -1,0 +1,3 @@
+csc4210 01 SoftwareEngineering csc4000 csc4000 csc3000 FREE
+psy4710 01 Psychology psy2000 pe1000 FREE FREE
+pe1000 01 PysicalEducation FREE FREE FREE FREE
