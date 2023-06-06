@@ -22,7 +22,7 @@ I have a mock one set up for faculty atm
 
 Collaborators:
 Jacob Day
-Micheal Henson
+Michall Henson
 Daniel Malloy
 Adam Piester
 
